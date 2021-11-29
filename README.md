@@ -2,7 +2,7 @@
 
 
 <h1  align="center">Eyes-follow-mouse-cursor  🙂</H1>
-<h2 ali
+
   <div align="center">
 <img src="https://media.giphy.com/media/zaYo8YhJCSzcs8WRJZ/giphy.gif" style="width: 60%;">
  
